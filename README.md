@@ -8,4 +8,4 @@ Also useful for creating or editing markdown files like this file,
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 Git Handbook is here:
-[Git Handbook](https://guides.github.com/introduction/git-handbook/)
+[Github Git Handbook](https://guides.github.com/introduction/git-handbook/)
