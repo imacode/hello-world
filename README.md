@@ -1,2 +1,2 @@
 # hello-world
-Simple Hello World repository
+This is a simple public Hello World repository
