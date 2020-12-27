@@ -1,2 +1,4 @@
 Hello from hello.txt
+
+This is a simple text file.
 That's all.
