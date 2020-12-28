@@ -15,3 +15,8 @@
 ### Testing your SSH connection (github docs)
 
 [github docs link](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/testing-your-ssh-connection)
+
+
+### How do I “git pull” and overwrite my local changes?
+
+[local with remote changes](https://koukia.ca/how-do-i-git-pull-and-overwrite-my-local-changes-4b6e3a8de955)
