@@ -9,3 +9,5 @@ Also useful for creating or editing markdown files like this file,
 
 Git Handbook is here:
 [Github Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
+That's all for now.
